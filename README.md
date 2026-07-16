@@ -18,11 +18,10 @@
 ## 🧑‍💻 About Me
 
 - 🎓 Pursuing a **B.E. in Computer Science & Engineering** at **MBM University, Jodhpur** *(CGPA: 8.30/10.0)*
-- 💡 Interested in **Data Analytics**, **Data Structures & Algorithms**, and **Generative AI**
+- 💡 Interested in **Data Analytics**, **Data Structures & Algorithms**, and **ML**
 - 🌱 Currently sharpening my skills in **DSA** and **Full-Stack Web Development**
 - 🏆 Solved **100+ problems** on LeetCode, focused on core interview patterns
 - 📜 Certified in **Data Analytics** (Physics Wallah × Microsoft)
-- 📍 Based in **Makrana, Rajasthan**
 - 📫 Reach me at **sainivaibhav1409@gmail.com**
 
 <br/>
