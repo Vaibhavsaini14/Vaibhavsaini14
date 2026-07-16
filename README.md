@@ -105,7 +105,7 @@ More projects in progress — check my **[pinned repositories](https://github.co
 </tr>
 </table>
 
-> ⚠️ Replace the project links above with your actual repo URLs once you paste this in.
+
 
 <br/>
 
