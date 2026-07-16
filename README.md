@@ -112,20 +112,10 @@ More projects in progress — check my **[pinned repositories](https://github.co
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Vaibhavsaini14&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=B57BFF&icon_color=B57BFF&text_color=C9D1D9" />
+![Profile Views](https://komarev.com/ghpvc/?username=Vaibhavsaini14&style=for-the-badge&color=b57bff)
+![GitHub followers](https://img.shields.io/github/followers/Vaibhavsaini14?style=for-the-badge&color=b57bff&labelColor=161b22)
+![Repo Stars](https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=Total%20Stars&color=b57bff&labelColor=161b22&query=%24.length&url=https%3A%2F%2Fapi.github.com%2Fusers%2FVaibhavsaini14%2Frepos&suffix=%20repos)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vaibhavsaini14&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=B57BFF&text_color=C9D1D9" />
-
-</div>
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Vaibhavsaini14&theme=discord&no-frame=true&row=1&column=7&margin-w=8" />
-</div>
-
-## 🐍 Contribution Snake
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/Vaibhavsaini14/Vaibhavsaini14/output/github-contribution-grid-snake-dark.svg" alt="snake game" />
 </div>
 
 <br/>
