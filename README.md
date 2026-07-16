@@ -1,28 +1,31 @@
 <div align="center">
 
-# Hi there, I'm Vaibhav Saini 👋
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=800&color=B57BFF&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+Vaibhav+Saini+%F0%9F%91%8B;Computer+Science+Undergrad;Building+Web+Apps+%26+Solving+DSA;One+Commit+at+a+Time+%F0%9F%9A%80" alt="Typing SVG" />
 
-### Computer Science Undergrad | Building Web Apps & Solving DSA, One Commit at a Time
+<br/>
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sainivaibhav1409@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/vaibhavsaini14)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vaibhavsaini14)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Vaibhav_saini_14/)
+[![Email](https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sainivaibhav1409@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vaibhavsaini14)
+[![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vaibhavsaini14)
+[![LeetCode](https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Vaibhav_saini_14/)
+
+<img src="https://komarev.com/ghpvc/?username=Vaibhavsaini14&style=for-the-badge&color=b57bff&label=PROFILE+VIEWS" alt="profile views" />
 
 </div>
 
----
+<br/>
 
 ## 🧑‍💻 About Me
 
-- 🎓 Pursuing a **B.E. in Computer Science & Engineering** at **MBM University, Jodhpur** _(CGPA: 8.30/10.0)_
+- 🎓 Pursuing a **B.E. in Computer Science & Engineering** at **MBM University, Jodhpur** *(CGPA: 8.30/10.0)*
 - 💡 Interested in **Data Analytics**, **Data Structures & Algorithms**, and **Generative AI**
 - 🌱 Currently sharpening my skills in **DSA** and **Full-Stack Web Development**
 - 🏆 Solved **100+ problems** on LeetCode, focused on core interview patterns
-- 📊 Certified in **Data Analytics** (Physics Wallah × Microsoft)
+- 📜 Certified in **Data Analytics** (Physics Wallah × Microsoft)
+- 📍 Based in **Makrana, Rajasthan**
 - 📫 Reach me at **sainivaibhav1409@gmail.com**
 
----
+<br/>
 
 ## 🛠️ Technical Skills
 
@@ -40,23 +43,16 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Tailwind](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
-**Frameworks & Libraries**
-
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
-![Vanilla JS](https://img.shields.io/badge/Vanilla_JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
-**Developer Tools & Platforms**
+**Tools & Platforms**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
----
+<br/>
 
 ## 🚀 Highlighted Projects
 
@@ -64,9 +60,8 @@
 <tr>
 <td width="50%" valign="top">
 
-### 🧾 [Cloth Inventory Management System](https://github.com/Vaibhavsaini14)
-
-**HTML5 · CSS3 · JavaScript · SQL**
+### 📋 [Cloth Inventory Management System](https://github.com/Vaibhavsaini14?tab=repositories)
+`HTML5` `CSS3` `JavaScript` `SQL`
 
 A frontend-only inventory management web app for retail cloth stores.
 
@@ -77,9 +72,8 @@ A frontend-only inventory management web app for retail cloth stores.
 </td>
 <td width="50%" valign="top">
 
-### 🎮 [Neural Arena](https://github.com/Vaibhavsaini14)
-
-**JavaScript · HTML5 · CSS3 · AI-Assisted Dev**
+### 🎮 [Neural Arena](https://github.com/Vaibhavsaini14?tab=repositories)
+`JavaScript` `HTML5` `CSS3` `AI-Assisted Dev`
 
 A browser-based 3D action game with real-time environment mechanics.
 
@@ -92,9 +86,8 @@ A browser-based 3D action game with real-time environment mechanics.
 <tr>
 <td width="50%" valign="top">
 
-### 🌐 [Personal Portfolio Website](https://github.com/Vaibhavsaini14)
-
-**HTML5 · CSS3 · JavaScript**
+### 🌐 [Personal Portfolio Website](https://github.com/Vaibhavsaini14?tab=repositories)
+`HTML5` `CSS3` `JavaScript`
 
 A personal portfolio showcasing projects, skills, and contact info for recruiters.
 
@@ -106,39 +99,45 @@ A personal portfolio showcasing projects, skills, and contact info for recruiter
 
 ### 📈 Always Building
 
-More projects in progress — check my **pinned repositories** for the latest work!
+More projects in progress — check my **[pinned repositories](https://github.com/Vaibhavsaini14?tab=repositories)** for the latest work!
 
 </td>
 </tr>
 </table>
 
----
+> ⚠️ Replace the project links above with your actual repo URLs once you paste this in.
 
-## 🏆 Achievements & Certifications
+<br/>
 
-- 📊 **Basics of Data Analytics Certification** — _Physics Wallah (PW) × Microsoft_ — Apr 2026
-  Learned data cleaning, transformation & visualization; worked with Excel, Power BI, and basic SQL; built dashboards for data-driven decision making.
-- 💻 **Competitive Programmer** — LeetCode, HackerRank _(2024–Present)_
-  Solved 100+ problems focused on Arrays, Strings, Linked List, and Greedy algorithms.
-- 🤝 **Volunteer, Student Induction Program** — MBM University _(Aug 2024)_
-  Coordinated induction for 100 incoming students; managed scheduling and served as primary point of contact.
-
----
-
-## 🎓 Education
-
-**MBM University, Jodhpur** — B.E. in Computer Science & Engineering _(CGPA: 8.30/10.0)_ — Aug 2024 – Jul 2028
-**Marwar Montessori Sr. Sec. School, Makrana** — Class XII, 87.2% — 2023
-
----
+## 📊 GitHub Stats
 
 <div align="center">
 
-### 📫 Let's Connect!
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Vaibhavsaini14&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=B57BFF&icon_color=B57BFF&text_color=C9D1D9" />
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Vaibhavsaini14&theme=tokyonight&hide_border=true&background=0D1117&ring=B57BFF&fire=B57BFF&currStreakLabel=B57BFF" />
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sainivaibhav1409@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/vaibhavsaini14)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vaibhavsaini14&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=B57BFF&text_color=C9D1D9" />
 
-_Thanks for stopping by — always open to collaborations, internships, and interesting projects!_ 🚀
+</div>
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Vaibhavsaini14&theme=discord&no-frame=true&row=1&column=7&margin-w=8" />
+</div>
+
+<br/>
+
+## 🐍 Contribution Snake
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/Vaibhavsaini14/Vaibhavsaini14/output/github-contribution-grid-snake-dark.svg" alt="snake game" />
+</div>
+
+> 👆 This will appear automatically once you add the GitHub Action below (2-minute setup, instructions included).
+
+<br/>
+
+<div align="center">
+
+### Thanks for stopping by! ⭐ Feel free to connect and collaborate.
 
 </div>
