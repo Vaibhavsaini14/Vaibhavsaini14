@@ -55,7 +55,7 @@
 <td align="center" width="25%">
 
 🤖<br/>
-**Generative AI**<br/>
+**Machine Learning**<br/>
 <sub>Exploring & building</sub>
 
 </td>
