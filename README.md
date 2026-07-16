@@ -112,8 +112,7 @@ More projects in progress — check my **[pinned repositories](https://github.co
 
 <div align="center">
 
-<img height="165" src= "https://github-readme-streak-stats-eight.vercel.app/?user=Vaibhavsaini14&theme=tokyonight&hide_border=true&background=0D1117&ring=B57BFF&fire=B57BFF&currStreakLabel=B57BFF"/>
-<img height="165" src="https://streak-stats.demolab.com/?user=Vaibhavsaini14&theme=tokyonight&hide_border=true&background=0D1117&ring=B57BFF&fire=B57BFF&currStreakLabel=B57BFF" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Vaibhavsaini14&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=B57BFF&icon_color=B57BFF&text_color=C9D1D9" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vaibhavsaini14&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=B57BFF&text_color=C9D1D9" />
 
@@ -122,8 +121,6 @@ More projects in progress — check my **[pinned repositories](https://github.co
 <div align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=Vaibhavsaini14&theme=discord&no-frame=true&row=1&column=7&margin-w=8" />
 </div>
-
-<br/>
 
 ## 🐍 Contribution Snake
 
