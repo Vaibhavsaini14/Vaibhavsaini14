@@ -121,7 +121,7 @@ Responsive personal portfolio built with Flexbox & Grid for recruiters.
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Vaibhavsaini14&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&rank_icon=github&cache_seconds=1800"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Vaibhavsaini14&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&rank_icon=github&cache_seconds=120"/>
 
 <img height="170" src="https://streak-stats.demolab.com?user=Vaibhavsaini14&theme=tokyonight&hide_border=true&border_radius=12"/>
 
