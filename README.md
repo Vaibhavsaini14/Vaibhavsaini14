@@ -66,7 +66,13 @@
 ## 🧰 Tech Stack
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=c,cpp,python,sql,js,html,css,react,tailwind,git,github,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=c,cpp,python,js,html,css,react,tailwind,nodejs,nextjs,mongodb,mysql,fastapi,tensorflow,docker,git,github,vscode&theme=dark" />
+
+<br/>
+
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+
 </div>
 
 <br/>
