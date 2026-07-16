@@ -135,12 +135,6 @@ Responsive personal portfolio built with Flexbox & Grid for recruiters.
 
 <br/>
 
-## 🧠 LeetCode Stats
-
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/Vaibhav_saini_14?theme=tokyonight&font=Baloo&ext=contest,heatmap" />
-</p>
-
 ## 🐍 Contribution Snake
 
 <div align="center">
