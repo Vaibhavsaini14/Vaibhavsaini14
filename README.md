@@ -123,7 +123,7 @@ Responsive personal portfolio built with Flexbox & Grid for recruiters.
 
 <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Vaibhavsaini14&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://streak-stats.demolab.com?user=Vaibhavsaini14&theme=tokyonight&hide_border=true&border_radius=12"/>
+<img height="170" src="https://streak-stats.demolab.com?user=Vaibhavsaini14&theme=tokyonight&hide_border=true&border_radius=12&cache_seconds=1800&v=2"/>
 
 </div>
 
