@@ -115,11 +115,14 @@ Responsive personal portfolio built with Flexbox & Grid for recruiters.
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Vaibhavsaini14&show_icons=true&theme=midnight-purple&hide_border=true" height="170"/>
+  <img src="./profile/streak.svg" height="170"/>
+</p>
 
-<a href="https://git.io/streak-stats"><img src="./profile/streak.svg" alt="GitHub Streak" /></a>
-
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vaibhavsaini14&layout=compact&theme=midnight-purple&hide_border=true" height="170"/>
+</p>
 
 ## Contribution Graph
 
