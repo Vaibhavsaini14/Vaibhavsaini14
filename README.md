@@ -120,7 +120,7 @@ Responsive personal portfolio built with Flexbox & Grid for recruiters.
 <a href="https://git.io/streak-stats"><img src="./profile/streak.svg" alt="GitHub Streak" /></a>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vaibhavsaini14&show_icons=true&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://streak-stats.demolab.com?user=Vaibhavsaini14&theme=midnight-purple&hide_border=true"/>
 </p>
 
 </div>
