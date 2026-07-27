@@ -116,8 +116,8 @@ Responsive personal portfolio built with Flexbox & Grid for recruiters.
 ## 📊 GitHub Stats
 
 <div align="center">
-<a >
-  <img src="https://streak-stats.demolab.com?user=Vaibhavsaini14&theme=midnight-purple&hide_border=true&border_radius=12" alt="GitHub Streak" />
+<a href="https://git.io/streak-stats">
+  <img src="./profile/streak.svg" alt="GitHub Streak" />
 </a>
 
 </div>
