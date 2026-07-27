@@ -116,7 +116,7 @@ Responsive personal portfolio built with Flexbox & Grid for recruiters.
 ## 📊 GitHub Stats
 
 <div align="center">
-<a href="https://git.io/streak-stats">
+<a>
   <img src="./profile/streak.svg" alt="GitHub Streak" />
 </a>
 
