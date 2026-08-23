@@ -139,9 +139,3 @@ Responsive personal portfolio built with Flexbox & Grid for recruiters.
 </div>
 
 <br/>
-
-<div align="center">
-
-### Thanks for stopping by! ⭐ Feel free to connect and collaborate.
-
-</div>
