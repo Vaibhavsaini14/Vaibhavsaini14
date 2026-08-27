@@ -126,7 +126,7 @@ Responsive personal portfolio built with Flexbox & Grid for recruiters.
 
 <div align="center">
 
-<img width="95%" src="https://gitblend.com/api/contributions/github?username=Vaibhavsaini14&theme=dark"
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Vaibhavsaini14&bg_color=0D1117&color=C084FC&line=A855F7&point=FFFFFF&area=true&area_color=7C3AED&hide_border=true&radius=12"
             alt="Vaibhav's GitHub Activity Graph"/>
 
 </div>
