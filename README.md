@@ -126,7 +126,8 @@ Responsive personal portfolio built with Flexbox & Grid for recruiters.
 
 <div align="center">
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Vaibhavsaini14&theme=tokyo-night&hide_border=true"/>
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Vaibhavsaini14&theme=tokyo-night&hide_border=true"
+            alt="Vaibhav's GitHub Activity Graph"/>
 
 </div>
 
