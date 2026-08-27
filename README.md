@@ -126,7 +126,7 @@ Responsive personal portfolio built with Flexbox & Grid for recruiters.
 
 <div align="center">
 
-<img width="95%" src="https://gitblend.com/api/contributions/github?username=Vaibhavsaini14"
+<img width="95%" src="https://gitblend.com/api/contributions/github?username=Vaibhavsaini14&theme=dark"
             alt="Vaibhav's GitHub Activity Graph"/>
 
 </div>
