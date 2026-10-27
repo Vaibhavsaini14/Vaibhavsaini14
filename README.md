@@ -7,7 +7,6 @@
 [![Email](https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sainivaibhav1409@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vaibhavsaini14)
 [![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vaibhavsaini14)
-[![LeetCode](https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Vaibhav_saini_14/)
 
 <img src="https://komarev.com/ghpvc/?username=Vaibhavsaini14&style=for-the-badge&color=b57bff&label=PROFILE+VIEWS" alt="profile views" />
 
